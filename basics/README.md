@@ -22,3 +22,13 @@ In this file, I write :
 #!/bin/bash
 pwd
 ```
+
+And I execute the file with :
+```
+$ ./0-current_working_directory
+/basics
+$
+```
+
+
+### Task 1: What's in there ?
