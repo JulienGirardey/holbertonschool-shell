@@ -7,13 +7,13 @@ Write a script that prints the absolute path name of the current working directo
 Example:
 
 ```
-è§$ ./0-current_working_directory
-è§/basics
-è§$
+$ ./0-current_working_directory
+/basics
+$
 ```
 
 **Repo:**
 
-è- GitHub repository: holbertonschool-shell [color=#e32f09]
-è- Directory: basics [color=#e32f09]
-è- File: 0-current_working_directory [color=#e32f09]
+è- GitHub repository: holbertonschool-shell
+è- Directory: basics
+è- File: 0-current_working_directory
