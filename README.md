@@ -6,14 +6,14 @@ In this repo we have 4 project's for learn shell.
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-### Navigation
+- Navigation
 
-### Looking Around
+- Looking Around
 
-### Manipulating Files
+- Manipulating Files
 
-### Working with Commands
+- Working with Commands
 
-### Reading Man Pages
+- Reading Man Pages
 
-### Keyboard Shortcuts for Bash
+- Keyboard Shortcuts for Bash
