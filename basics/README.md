@@ -14,6 +14,6 @@ $
 
 **Repo:**
 
-è- GitHub repository: holbertonschool-shell
-è- Directory: basics
-è- File: 0-current_working_directory
+- GitHub repository: holbertonschool-shell
+- Directory: basics
+- File: ```0-current_working_directory```
