@@ -1,19 +1,15 @@
 # Project: shell, basics
 
-## Task 0: Where am I ?
+## This task is for learn the base of shell
 
+### Task 0: Where am I ?
 
-Write a script that prints the absolute path name of the current working directory.
-Example:
+The first task (Task 0) is for make a script to prints the absolute path of the current working directory.\
+For do that I create a directory name <code>basics<code>.\
+In this directory, make a file name <code>0-current_working_directory<code>.\
+In this file, I write :\
 
 ```
-$ ./0-current_working_directory
-/basics
-$
+#!/bin/bash
+pwd
 ```
-
-**Repo:**
-
-- GitHub repository: ```holbertonschool-shell```
-- Directory: ```basics```
-- File: ```0-current_working_directory```
