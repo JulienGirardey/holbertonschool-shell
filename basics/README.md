@@ -53,3 +53,25 @@ And I execute the file, the ls commande is execute by script.
 
 
 ### Task 2: There is no place like home
+
+
+The Third task (Task 2) is for make a script to go on user's home directory.
+
+
+For do that I create a file name
+```2-bring_me_home```
+
+
+In this file, I write :
+
+
+```
+#!/bin/bash
+cd
+```
+
+
+And I execute the file, the cd commande is execute by script.
+
+
+### Task 3: The long format
