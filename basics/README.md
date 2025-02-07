@@ -75,3 +75,37 @@ And I execute the file, the cd commande is execute by script.
 
 
 ### Task 3: The long format
+
+
+For this task (Task 3) I have to display current directory contents in a long format.
+
+
+For do that, I create a file name
+```3-listfiles```
+
+
+In this file, I write :
+
+
+```
+#!/bin/bash
+ls -l
+```
+
+
+And when I execute my script, I have :
+
+
+```
+root@976e6d06a0894244909147a942f333b8-2377118072:/holbertonschool-shell/basics# ./3-listfiles 
+total 24
+-rwxr-xr-x 1 root root   16 Feb  7 08:15 0-current_working_directory
+-rwxr-xr-x 1 root root   15 Feb  7 08:15 1-listit
+-rwxr-xr-x 1 root root   15 Feb  7 08:15 2-bring_me_home
+-rwxr-xr-x 1 root root   18 Feb  7 08:16 3-listfiles
+-rw-r--r-- 1 root root 1086 Feb  7 08:15 README.md
+-rw-r--r-- 1 root root  370 Feb  7 08:15 README.md.save
+```
+
+
+### Task 4: Hidden files
