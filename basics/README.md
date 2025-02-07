@@ -145,3 +145,43 @@ drwxr-xr-x 4 root root 4096 Feb  7 08:15 ..
 
 
 ### Task 5: I love numbers
+
+
+For this task (Task 5) I have to display current directory contents.
+- Long format
+- with user and group IDs displayed numerically
+- And hidden files (starting with .)
+
+
+For do that, I create a file name
+```5-listfilesdigitonly```
+
+
+In this file, I write :
+
+
+```
+#!/bin/bash
+ls -an
+```
+
+
+And when I execute my script, I have :
+
+```
+root@976e6d06a0894244909147a942f333b8-2377118072:/holbertonschool-shell/basics# ./5-listfilesdigitonly
+total 40
+drwxr-xr-x 2 0 0 4096 Feb  7 08:42 .
+drwxr-xr-x 4 0 0 4096 Feb  7 08:15 ..
+-rwxr-xr-x 1 0 0   16 Feb  7 08:15 0-current_working_directory
+-rwxr-xr-x 1 0 0   15 Feb  7 08:15 1-listit
+-rwxr-xr-x 1 0 0   15 Feb  7 08:15 2-bring_me_home
+-rwxr-xr-x 1 0 0   18 Feb  7 08:16 3-listfiles
+-rwxr-xr-x 1 0 0   19 Feb  7 08:30 4-listmorefiles
+-rwxr-xr-x 1 0 0   19 Feb  7 08:42 5-listfilesdigitonly
+-rw-r--r-- 1 0 0 2692 Feb  7 08:38 README.md
+-rw-r--r-- 1 0 0  370 Feb  7 08:15 README.md.save
+```
+
+
+### Welcome
