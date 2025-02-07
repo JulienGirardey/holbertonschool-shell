@@ -111,10 +111,6 @@ Creates the directories `welcome/`, `welcome/to/`, and `welcome/to/school/` in t
     ./basics/0-current_working_directory
     ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - This project is part of the Holberton School curriculum.
