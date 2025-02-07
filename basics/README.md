@@ -184,4 +184,30 @@ drwxr-xr-x 4 0 0 4096 Feb  7 08:15 ..
 ```
 
 
-### Task 5: Welcome
+### Task 6: Welcome
+
+
+For this task (Task 6) I have to create a script that creates a directory named
+```my_first_directory```
+in the
+```/tmp/```
+directory.
+
+
+For do that, I create a file name
+```6-firstdirectory```
+
+
+In this file, I write :
+
+
+```
+#!/bin/bash
+mkdir /tmp/my_first_directory
+```
+
+
+And when I execute my script, my folder is create on greate directory (/tmp)
+
+
+### Task 7: Betty in my first directory
