@@ -109,3 +109,39 @@ total 24
 
 
 ### Task 4: Hidden files
+
+
+For this task (Task 4) I have to display current directory contents, including hidden files (starting with .)
+
+
+For do that, I create a file name
+```4-listmorefiles```
+
+
+In this file, I write :
+
+
+```
+#!/bin/bash
+ls -la
+```
+
+
+And when I execute my script, I have :
+
+```
+root@976e6d06a0894244909147a942f333b8-2377118072:/holbertonschool-shell/basics# ./4-listmorefiles 
+total 36
+drwxr-xr-x 2 root root 4096 Feb  7 08:30 .
+drwxr-xr-x 4 root root 4096 Feb  7 08:15 ..
+-rwxr-xr-x 1 root root   16 Feb  7 08:15 0-current_working_directory
+-rwxr-xr-x 1 root root   15 Feb  7 08:15 1-listit
+-rwxr-xr-x 1 root root   15 Feb  7 08:15 2-bring_me_home
+-rwxr-xr-x 1 root root   18 Feb  7 08:16 3-listfiles
+-rwxr-xr-x 1 root root   19 Feb  7 08:30 4-listmorefiles
+-rw-r--r-- 1 root root 1800 Feb  7 08:25 README.md
+-rw-r--r-- 1 root root  370 Feb  7 08:15 README.md.save
+```
+
+
+### Task 5: I love numbers
