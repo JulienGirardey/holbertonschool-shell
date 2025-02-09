@@ -1,1 +1,2 @@
-# Add execute permissions to all subdirectories for all users
+#!/bin/bash
+chmod -R +X .
