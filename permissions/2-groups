@@ -1,2 +1,1 @@
-#!/bin/bash
-groups
+# Print all groups the current user belongs to

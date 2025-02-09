@@ -1,2 +1,1 @@
-#!/bin/bash
-chmod u+x hello
+# Add execute permission to the owner of 'hello'

@@ -1,2 +1,1 @@
-#!/bin/bash
-chown betty hello
+# Change the owner of the file 'hello' to betty
