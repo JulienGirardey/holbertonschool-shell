@@ -1,1 +1,2 @@
-# Grant execute permission to owner, group, and others
+#!/bin/bash
+chmod a+x hello

@@ -1,1 +1,2 @@
-# Add execute permission to owner/group, read for others
+#!/bin/bash
+chmod ur+x,o+r hello

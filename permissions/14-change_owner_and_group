@@ -1,1 +1,2 @@
-# Change the owner to 'vincent' and group to 'staff' for all files
+#!/bin/bash
+chown -R vincent:staff .

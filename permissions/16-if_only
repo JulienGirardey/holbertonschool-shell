@@ -1,1 +1,2 @@
-# Change the owner of 'hello' to 'betty' only if owned by 'guillaume'
+#!/bin/bash
+chown --from=guillaume vincent hello

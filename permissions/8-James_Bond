@@ -1,1 +1,2 @@
-# Set permissions: no owner/group access, full access for others
+#!/bin/bash
+chmod 007 hello

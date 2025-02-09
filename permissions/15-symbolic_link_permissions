@@ -1,1 +1,2 @@
-# Change the owner and group of '_hello' (a symbolic link) to 'vincent:staff'
+#!/bin/bash
+chown -h viencent:staff _hello

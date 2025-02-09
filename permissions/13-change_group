@@ -1,1 +1,2 @@
-# Change the group of 'hello' to 'school'
+#!/bin/bash
+chgrp school hello
